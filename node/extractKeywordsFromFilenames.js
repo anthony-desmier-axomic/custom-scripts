@@ -1,3 +1,6 @@
+//used for ATT001 to check for strings in the filename and extract them as keywords into an output file.
+//Ticket reference https://axomic.zendesk.com/agent/tickets/13305
+
 var readline = require('readline');
 var fs = require('fs');
 
